@@ -3,7 +3,7 @@
   "version": "0.9.10",
   "private": true,
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "https-proxy-agent": "^1.0.0",
     "ws": "^1.0.1"
   },
